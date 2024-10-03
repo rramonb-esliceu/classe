@@ -7,11 +7,12 @@ td{
 }
 
 table{
-    border-color:red;
+    margin: auto;
+    width: 80%;
 }
 
 th{
-    background-color: red;
+    background-color: rgb(240, 101, 101);
     color: white;
 }
 
@@ -24,14 +25,14 @@ th{
 
 .hora{
     color: black;
-    background-color: red;
+    background-color: rgb(240, 101, 101);
     font-weight: 700;
 }
 
 .pati{
     color: white;
     font-weight: 700;
-    background-color: red;
+    background-color: rgb(240, 101, 101);
 }
 
 .sox{

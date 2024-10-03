@@ -1,0 +1,55 @@
+body{
+    color: Black;
+    text-align: center;
+}
+td{
+    padding: 0.8rem;
+}
+
+table{
+    border-color:red;
+}
+
+th{
+    background-color: red;
+    color: white;
+}
+
+.titol{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: black;
+}
+
+.hora{
+    color: black;
+    background-color: red;
+    font-weight: 700;
+}
+
+.pati{
+    color: white;
+    font-weight: 700;
+    background-color: red;
+}
+
+.sox{
+    background-color: #088000;
+}
+
+.sx{
+    background-color: #290087;
+}
+
+.seguretat{
+    background-color: #84818e;
+}
+
+.eie{
+    background-color: #4abd8c;
+}
+
+.aw{
+    background-color: #8dee00;
+}
